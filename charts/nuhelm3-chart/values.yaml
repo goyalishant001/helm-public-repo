@@ -1,0 +1,10 @@
+# Namespace in which to create the Role and RoleBinding
+namespace: h106
+
+# User or ServiceAccount to bind the Role to
+roleBindingSubject:
+  kind: ServiceAccount  # could be User or ServiceAccount
+  name: nuhelm3     # Name of the ServiceAccount (or User)
+
+# Optional: ClusterRole to bind to if needed
+roleName: secret-viewer
