@@ -6,12 +6,12 @@ entries:
       internal: "true"
     apiVersion: v2
     appVersion: "1.0"
-    created: "2024-11-23T02:56:20.141756+05:30"
+    created: "2024-11-23T03:24:33.832679+05:30"
     description: A Helm chart to create a Role and RoleBinding to view Secrets in
       Kubernetes
     digest: 8ac09a0e6c78aa1b825be099da3762ba07aba9849778a41966b099904140b33a
     name: nuhelm3-chart
     urls:
-    - https://goyalishant001.github.io/helm-repo/nuhelm3-chart-4.0.0.tgz
+    - https://goyalishant001.github.io/helm-public-repo/nuhelm3-chart-4.0.0.tgz
     version: 4.0.0
-generated: "2024-11-23T02:56:20.141462+05:30"
+generated: "2024-11-23T03:24:33.832219+05:30"
